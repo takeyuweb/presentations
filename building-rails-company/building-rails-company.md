@@ -644,3 +644,8 @@ QoLの高まりを感じる！
 - フリーランス最高…だがつらいところもある
 - 法人成りで解決できる問題もある
 - *仲間募集してます*
+
+# 仲間募集してます
+
+![](https://raw.githubusercontent.com/takeyuweb/presentations/master/building-rails-company/flyer.jpg){:relative_height='100'}
+
