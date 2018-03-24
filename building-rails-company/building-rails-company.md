@@ -25,15 +25,17 @@ allotted-time
 
 - Railsの話
 
-# とはいえ少し触れると
+# railsdmなので
 
 - Rails 1.1から触ってる
 - 変わり続けている
 - これからも変わっていくだろう
 
-# なのでこれからも
+# これからも
 
 Railsをキメて気持ち良くなろう
+
+# Rails の話おわり
 
 # 目次
 
@@ -49,7 +51,7 @@ Railsをキメて気持ち良くなろう
 - Rails 1.1〜
 - Saitama.rb主宰
 
-# @takeyuweb
+# Twitter
 
 ![](https://raw.githubusercontent.com/takeyuweb/presentations/master/building-rails-company/profile.png){:relative_height='100'}
 
@@ -58,9 +60,7 @@ Railsをキメて気持ち良くなろう
 "自由"業
 
 - 自分で仕事をもらって自分で進めて自分で納品する
-- 客先常駐だと個人事業主ではあっても自由業とは呼べないのでは（※）
-
-※個人の感想です
+- 客先常駐だと個人事業主ではあっても自由業とは呼べないのでは（※個人の感想です）
 
 # フリーランスのここがいい
 
@@ -199,7 +199,7 @@ QoLの高まりを感じる！
 
 所得控除とは？
 
-課税所得を押し下げる効果がある
+*課税所得を押し下げる*効果がある
 
 # 課税所得が減るって？
 
