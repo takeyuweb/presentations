@@ -44,13 +44,14 @@ Railsをキメて気持ち良くなろう
 
 # @takeyuweb
 
-
-![](https://raw.github.com/takeyuweb/presentations/master/sample/profile.png){:relative_height='100'}
-
 - 2008年〜フリーランス
 - 2016年 法人成り
 - Rails 1.1〜
 - Saitama.rb主宰
+
+# @takeyuweb
+
+![](https://raw.githubusercontent.com/takeyuweb/presentations/master/building-rails-company/profile.png){:relative_height='100'}
 
 # フリーランス？
 
