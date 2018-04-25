@@ -141,7 +141,7 @@ Content-Security-Policy-Report-Only: default-src https: report-to https://test.h
 
 # Supported browsers
 
-[ブラウザー実装状況 | Content Security Policy (CSP) - HTTP | MDN](https://developer.mozilla.org/ja/docs/Web/HTTP/CSP#%E3%83%96%E3%83%A9%E3%82%A6%E3%82%B6%E3%83%BC%E5%AE%9F%E8%A3%85%E7%8A%B6%E6%B3%81)
+[ブラウザー実装状況 Content Security Policy (CSP) - HTTP MDN](https://developer.mozilla.org/ja/docs/Web/HTTP/CSP#%E3%83%96%E3%83%A9%E3%82%A6%E3%82%B6%E3%83%BC%E5%AE%9F%E8%A3%85%E7%8A%B6%E6%B3%81)
 
 # Rails integration
 
